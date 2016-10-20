@@ -1,0 +1,8 @@
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\bin\Debug\FizzBuzzTDD.exe.config
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\obj\Debug\FizzBuzzTDD.csprojResolveAssemblyReference.cache
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\bin\Debug\FizzBuzzTDD.exe
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\bin\Debug\FizzBuzzTDD.pdb
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\bin\Debug\FizzBuzzClasses.dll
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\bin\Debug\FizzBuzzClasses.pdb
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\obj\Debug\FizzBuzzTDD.exe
+D:\Projects\TDD\FizzBuzzTDD\FizzBuzzTDD\obj\Debug\FizzBuzzTDD.pdb
